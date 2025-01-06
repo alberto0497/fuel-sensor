@@ -117,7 +117,7 @@ async function getFuelSensor(hash, trackerId) {
 
 // Función para cargar los datos desde la API
 async function fetchData() {
-    const hash = '4f9079566be6b376107cd07ed8f5592c'; // Reemplaza con tu session_key
+    const hash = '777af77941578033a3439fcfa050e218'; // Reemplaza con tu session_key
     const dataContainer = document.getElementById('data');
     const userContainer = document.getElementById('userInfo');
 
